@@ -1,0 +1,12 @@
+H:\Green Apple V2\trunk\Source\EMS-PSS\EMS-PSS\obj\Debug\EMS-PSS.csprojResolveAssemblyReference.cache
+H:\Green Apple V2\trunk\Source\EMS-PSS\EMS-PSS\bin\EMS-PSS.dll.config
+H:\Green Apple V2\trunk\Source\EMS-PSS\EMS-PSS\bin\EMS-PSS.dll
+H:\Green Apple V2\trunk\Source\EMS-PSS\EMS-PSS\bin\EMS-PSS.pdb
+H:\Green Apple V2\trunk\Source\EMS-PSS\EMS-PSS\obj\Debug\EMS-PSS.dll
+H:\Green Apple V2\trunk\Source\EMS-PSS\EMS-PSS\obj\Debug\EMS-PSS.pdb
+I:\Projects\EMS_PSS\EMS-PSS\EMS-PSS\bin\EMS-PSS.dll.config
+I:\Projects\EMS_PSS\EMS-PSS\EMS-PSS\bin\EMS-PSS.dll
+I:\Projects\EMS_PSS\EMS-PSS\EMS-PSS\bin\EMS-PSS.pdb
+I:\Projects\EMS_PSS\EMS-PSS\EMS-PSS\obj\Debug\EMS-PSS.csprojResolveAssemblyReference.cache
+I:\Projects\EMS_PSS\EMS-PSS\EMS-PSS\obj\Debug\EMS-PSS.dll
+I:\Projects\EMS_PSS\EMS-PSS\EMS-PSS\obj\Debug\EMS-PSS.pdb

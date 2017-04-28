@@ -1,0 +1,175 @@
+﻿body {
+    background-color: darkseagreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: white;
+}
+
+.genericText {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+}
+
+.textbox {
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainHeader {
+    width: 100%;
+    font-size: 36px;
+    color: aliceblue;
+    height: 64px;
+}
+
+.wrapper {
+    width: 950px;
+    margin: auto;
+}
+
+.content {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+    border: 1px solid darkseagreen;
+    border-radius: 5px 5px 5px 5px;
+    color: black;
+    min-height: 400px;
+}
+
+.menu {
+    background-color: seagreen;
+    width: 100%;
+    padding: 0px;
+    height: 40px;
+    color: aliceblue;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.first_nav_item {
+    border-left: 0px;
+    border-radius: 5px 0 0 5px;
+}
+
+.other_nav_item {
+    float: left;
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+    height: 40px;
+    background-color: cornflowerblue;
+}
+
+.menuDiv {
+    width: 100%;
+}
+
+.menu {
+    float: left;
+    display: block;
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+    width: 235px;
+}
+
+    .menu a {
+        font-size: 13px;
+        font-weight: bold;
+        line-height: 40px;
+        padding: 8px 25px;
+        color: white;
+        text-decoration: none;
+    }
+
+    .menu:hover {
+        background-color: darkcyan;
+        border-right: 1px solid white;
+    }
+
+.clear {
+    height: 15px;
+    clear: both;
+}
+
+.footer {
+    height: 50px;
+    background-color: seagreen;
+    border-radius: 5px 5px 5px 5px;
+}
+
+    .footer h3 {
+        font-size: large;
+        padding: 15px;
+        text-align: center;
+    }
+
+.title {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.login {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.labels {
+    width: 25%;
+    height: 20px;
+    vertical-align: middle;
+    float: left;
+    text-align: right;
+}
+
+.textboxes {
+    width: 74%;
+    vertical-align: middle;
+    line-height: 20px;
+    height: 20px;
+    float: right;
+}
+
+.buttons {
+    float: right;
+}
+
+.buttonsDiv {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.reportLinks {
+    text-align: center;
+    font-size: 16px;
+}
+
+.dropdownDiv {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dropdown {
+    width: 40%;
+    float: right;
+}
+
+.nextPage {
+    text-align: right;
+}
+
+.tables {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

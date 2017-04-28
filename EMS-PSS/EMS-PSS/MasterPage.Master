@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.Master.cs" Inherits="EMS_PSS.index" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="title" runat="server"></asp:ContentPlaceHolder>
+    </title>
+    <link href="StyleSheet.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+   
+        <div class="wrapper">
+            <div id="main header" class="mainHeader">
+                &nbsp;
+                <img src="Images/GreenAppleLogo.png" />
+                EMS-PSS
+            </div>
+            <div class="clear"></div>
+            <div class="menuDiv">
+                <div class="menu">
+                    <a href="index.aspx">Home</a>
+                </div>
+                <div class="menu">
+                    <a href="EmployeeMaintenance.aspx">Employee Maintenance</a>
+                </div>
+                <div class="menu">
+                    <a href="EmployeeReports.aspx">Employee Reports</a>
+                </div>
+                <div class="menu">
+                    <a href="SystemAdmin.aspx">System Admin</a>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="content">
+                <asp:ContentPlaceHolder ID="body" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div class="clear"></div>
+            <div class="footer">
+                <h3>© Green Apple</h3>
+            </div>
+        </div>
+
+</body>
+</html>
